@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Easy Note</string>
+    <string name="recycler_bin">سطل زباله</string>
+    <string name="title">عنوان یادداشت</string>
+    <string name="text_note">متن یادداشت</string>
+    <string name="save_note">ذخیره کردن</string>
+    <string name="cansel">منصرف شدن</string>
+</resources>
